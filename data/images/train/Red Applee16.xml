@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Apple Red Delicious</folder>
+	<filename>Red Applee16.png</filename>
+	<path>D:\GUNADARMA\SKRIPSI\PROJECT\DATASET\Apple Red Delicious\Red Applee16.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apel Red Delicious</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>61</ymin>
+			<xmax>433</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apel Red Delicious</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>100</ymin>
+			<xmax>268</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apel Red Delicious</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>12</ymin>
+			<xmax>240</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

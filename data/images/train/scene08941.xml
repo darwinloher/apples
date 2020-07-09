@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Apple Braeburn</folder>
+	<filename>scene08941.png</filename>
+	<path>D:\GUNADARMA\SKRIPSI\PROJECT\DATASET\Apple Braeburn\scene08941.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>258</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apel Braeburn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>47</ymin>
+			<xmax>106</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apel Braeburn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>94</ymin>
+			<xmax>199</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

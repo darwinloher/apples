@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Apple Crimson Snow</folder>
+	<filename>Apple 141.png</filename>
+	<path>D:\GUNADARMA\SKRIPSI\PROJECT\DATASET\Apple Crimson Snow\Apple 141.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apel Crimson Snow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>99</ymin>
+			<xmax>262</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apel Crimson Snow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>219</ymin>
+			<xmax>120</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
